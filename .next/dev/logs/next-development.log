@@ -1,0 +1,621 @@
+[00:00:03.818] Server  LOG      ✓ Ready in 3.1s
+[00:00:09.083] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:10.116] Browser WARN    Image with src "/_next/static/media/f05fb1c6fee4482cbeb3e4b87550a61690c5e456.57610fe0.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:02:08.861] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.870] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.878] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.883] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.886] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.888] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.890] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.891] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.897] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.901] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.905] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.907] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.911] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.913] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.914] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.916] Server  ERROR    ⨯ ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.923] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.927] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.930] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.934] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.939] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.942] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.946] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.949] Server  ERROR    ⨯ ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:08.957] Server  LOG      ✓ Compiled in 92ms
+[00:02:09.717] Browser ERROR   ./app/todos/page.tsx:10:1
+Module not found: Can't resolve '@/components/Input'
+   8 | import TopBar from '../../components/TopBar';
+   9 | import { Plus, Search, Calendar, GripVertical, CheckCircle2, AlertCircle, Clock, ListTodo } from 'lucide-react';
+> 10 | import Input from '@/components/Input';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  11 |
+  12 | interface Todo {
+  13 |   id: string;
+
+Import traces:
+  Client Component Browser:
+    ./app/todos/page.tsx [Client Component Browser]
+    ./app/todos/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/todos/page.tsx [Client Component SSR]
+    ./app/todos/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:09.717] Browser ERROR   ./app/profile/page.tsx:9:1
+Module not found: Can't resolve '@/components/TopBar'
+   7 | import Sidebar from '../../components/Sidebar';
+   8 | import { User, Upload } from 'lucide-react';
+>  9 | import TopBar from '@/components/TopBar';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 |
+  11 | interface UserData {
+  12 |   id: string;
+
+Import traces:
+  Client Component Browser:
+    ./app/profile/page.tsx [Client Component Browser]
+    ./app/profile/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/profile/page.tsx [Client Component SSR]
+    ./app/profile/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
